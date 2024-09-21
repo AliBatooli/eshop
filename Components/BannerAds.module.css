@@ -1,0 +1,13 @@
+.OutContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-items: center;
+  align-items: center;
+  align-content: center;
+  margin-top: 15px;
+}
+.imgBanner {
+  border-radius: 15px;
+  margin: 6px;
+}

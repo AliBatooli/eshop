@@ -1,0 +1,8 @@
+.OutCon {
+  direction: rtl;
+  justify-content: center;
+  align-items: center;
+}
+.liCArd {
+  border-bottom: 1px solid gray;
+}

@@ -1,0 +1,25 @@
+.OutCon {
+  display: flex;
+  direction: rtl;
+}
+.ItemBasketCon {
+  display: flex;
+  width: 70%;
+  flex-direction: column;
+}
+.ReschnungCon {
+  display: flex;
+  width: 30%;
+}
+.liCardItem {
+  border: 1px solid rgb(100, 61, 61);
+  border-radius: 15px;
+  margin: 20px;
+}
+.ReschnungCon {
+  margin-top: 60px;
+  border: 1px solid gray;
+  width: 350px;
+  border-radius: 15px;
+  height: fit-content;
+}

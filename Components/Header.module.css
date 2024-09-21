@@ -1,0 +1,18 @@
+.Container {
+  display: flex;
+  justify-content: space-between;
+  /* flex-wrap: wrap; */
+  flex-direction: row-reverse;
+  margin: auto 15px;
+  align-items: center;
+  justify-items: center;
+}
+.linkcolor {
+  color: gray;
+  text-decoration: none;
+  margin: 0px 10px;
+}
+.basketAndLogin {
+  display: flex;
+  justify-content: space-between;
+}

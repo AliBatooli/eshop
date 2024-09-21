@@ -1,0 +1,16 @@
+.OutCon {
+  display: flex;
+}
+.liCard {
+  border: 1px solid gray;
+}
+.ItemDescription {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.ConterBotten {
+  display: flex;
+  flex-basis: 400px;
+}

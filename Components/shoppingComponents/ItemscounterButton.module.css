@@ -1,0 +1,10 @@
+.OutCon {
+  color: red;
+  width: fit-content;
+  border: 1px solid gray;
+  border-radius: 15px;
+}
+
+.labelOFbutten {
+  margin: 10px;
+}

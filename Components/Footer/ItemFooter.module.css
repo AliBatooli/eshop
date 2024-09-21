@@ -1,0 +1,6 @@
+.outCon {
+  display: flex;
+  justify-content: space-between;
+  direction: rtl;
+  align-items: center;
+}

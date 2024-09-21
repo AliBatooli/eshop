@@ -1,0 +1,13 @@
+.label {
+  background-color: bisque;
+  cursor: pointer;
+  border-radius: 5px;
+  text-align: center;
+  padding: 5px 10px;
+  margin: 0 auto;
+}
+.labelOter {
+  display: flex;
+  justify-content: center;
+  margin-top: 5px;
+}

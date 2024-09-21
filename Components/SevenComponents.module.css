@@ -1,0 +1,18 @@
+.outContainer {
+  display: flex;
+  justify-content: space-around;
+  margin: 50px 0px;
+}
+.ItemContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.ItemLabel {
+  font-size: small;
+  margin-top: 5px;
+}
+.LinkStyle {
+  text-decoration: none;
+  color: gray;
+}

@@ -1,0 +1,27 @@
+.outContain {
+  justify-content: center;
+  align-items: center;
+}
+.titlecCon {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.itemCon {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+.linkitem {
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: rgb(160, 75, 75);
+  border-radius: 15px;
+}
+.linkDiv {
+  background-color: rgb(160, 75, 75);
+  padding: 15px;
+  border-radius: 15px;
+}
